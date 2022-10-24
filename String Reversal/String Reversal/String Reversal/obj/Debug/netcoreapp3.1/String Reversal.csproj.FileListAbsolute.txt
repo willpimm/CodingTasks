@@ -1,0 +1,14 @@
+C:\Users\user\Documents\capita\Developer\Will - Projects\String Reversal\String Reversal\String Reversal\obj\Debug\netcoreapp3.1\String Reversal.csproj.AssemblyReference.cache
+C:\Users\user\Documents\capita\Developer\Will - Projects\String Reversal\String Reversal\String Reversal\obj\Debug\netcoreapp3.1\String Reversal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\capita\Developer\Will - Projects\String Reversal\String Reversal\String Reversal\obj\Debug\netcoreapp3.1\String Reversal.AssemblyInfoInputs.cache
+C:\Users\user\Documents\capita\Developer\Will - Projects\String Reversal\String Reversal\String Reversal\obj\Debug\netcoreapp3.1\String Reversal.AssemblyInfo.cs
+C:\Users\user\Documents\capita\Developer\Will - Projects\String Reversal\String Reversal\String Reversal\obj\Debug\netcoreapp3.1\String Reversal.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\capita\Developer\Will - Projects\String Reversal\String Reversal\String Reversal\bin\Debug\netcoreapp3.1\String Reversal.exe
+C:\Users\user\Documents\capita\Developer\Will - Projects\String Reversal\String Reversal\String Reversal\bin\Debug\netcoreapp3.1\String Reversal.deps.json
+C:\Users\user\Documents\capita\Developer\Will - Projects\String Reversal\String Reversal\String Reversal\bin\Debug\netcoreapp3.1\String Reversal.runtimeconfig.json
+C:\Users\user\Documents\capita\Developer\Will - Projects\String Reversal\String Reversal\String Reversal\bin\Debug\netcoreapp3.1\String Reversal.runtimeconfig.dev.json
+C:\Users\user\Documents\capita\Developer\Will - Projects\String Reversal\String Reversal\String Reversal\bin\Debug\netcoreapp3.1\String Reversal.dll
+C:\Users\user\Documents\capita\Developer\Will - Projects\String Reversal\String Reversal\String Reversal\bin\Debug\netcoreapp3.1\String Reversal.pdb
+C:\Users\user\Documents\capita\Developer\Will - Projects\String Reversal\String Reversal\String Reversal\obj\Debug\netcoreapp3.1\String Reversal.dll
+C:\Users\user\Documents\capita\Developer\Will - Projects\String Reversal\String Reversal\String Reversal\obj\Debug\netcoreapp3.1\String Reversal.pdb
+C:\Users\user\Documents\capita\Developer\Will - Projects\String Reversal\String Reversal\String Reversal\obj\Debug\netcoreapp3.1\String Reversal.genruntimeconfig.cache

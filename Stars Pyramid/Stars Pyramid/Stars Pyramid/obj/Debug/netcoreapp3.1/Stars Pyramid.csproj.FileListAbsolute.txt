@@ -1,0 +1,14 @@
+C:\Users\user\Documents\capita\Developer\Will - Projects\Stars Pyramid\Stars Pyramid\Stars Pyramid\obj\Debug\netcoreapp3.1\Stars Pyramid.csproj.AssemblyReference.cache
+C:\Users\user\Documents\capita\Developer\Will - Projects\Stars Pyramid\Stars Pyramid\Stars Pyramid\obj\Debug\netcoreapp3.1\Stars Pyramid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\capita\Developer\Will - Projects\Stars Pyramid\Stars Pyramid\Stars Pyramid\obj\Debug\netcoreapp3.1\Stars Pyramid.AssemblyInfoInputs.cache
+C:\Users\user\Documents\capita\Developer\Will - Projects\Stars Pyramid\Stars Pyramid\Stars Pyramid\obj\Debug\netcoreapp3.1\Stars Pyramid.AssemblyInfo.cs
+C:\Users\user\Documents\capita\Developer\Will - Projects\Stars Pyramid\Stars Pyramid\Stars Pyramid\obj\Debug\netcoreapp3.1\Stars Pyramid.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\capita\Developer\Will - Projects\Stars Pyramid\Stars Pyramid\Stars Pyramid\bin\Debug\netcoreapp3.1\Stars Pyramid.exe
+C:\Users\user\Documents\capita\Developer\Will - Projects\Stars Pyramid\Stars Pyramid\Stars Pyramid\bin\Debug\netcoreapp3.1\Stars Pyramid.deps.json
+C:\Users\user\Documents\capita\Developer\Will - Projects\Stars Pyramid\Stars Pyramid\Stars Pyramid\bin\Debug\netcoreapp3.1\Stars Pyramid.runtimeconfig.json
+C:\Users\user\Documents\capita\Developer\Will - Projects\Stars Pyramid\Stars Pyramid\Stars Pyramid\bin\Debug\netcoreapp3.1\Stars Pyramid.runtimeconfig.dev.json
+C:\Users\user\Documents\capita\Developer\Will - Projects\Stars Pyramid\Stars Pyramid\Stars Pyramid\bin\Debug\netcoreapp3.1\Stars Pyramid.dll
+C:\Users\user\Documents\capita\Developer\Will - Projects\Stars Pyramid\Stars Pyramid\Stars Pyramid\bin\Debug\netcoreapp3.1\Stars Pyramid.pdb
+C:\Users\user\Documents\capita\Developer\Will - Projects\Stars Pyramid\Stars Pyramid\Stars Pyramid\obj\Debug\netcoreapp3.1\Stars Pyramid.dll
+C:\Users\user\Documents\capita\Developer\Will - Projects\Stars Pyramid\Stars Pyramid\Stars Pyramid\obj\Debug\netcoreapp3.1\Stars Pyramid.pdb
+C:\Users\user\Documents\capita\Developer\Will - Projects\Stars Pyramid\Stars Pyramid\Stars Pyramid\obj\Debug\netcoreapp3.1\Stars Pyramid.genruntimeconfig.cache

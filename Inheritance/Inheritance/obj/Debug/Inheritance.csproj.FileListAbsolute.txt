@@ -1,0 +1,7 @@
+C:\Users\user\Documents\capita\Developer\Will - Projects\Inheritance\Inheritance\obj\Debug\Inheritance.csproj.AssemblyReference.cache
+C:\Users\user\Documents\capita\Developer\Will - Projects\Inheritance\Inheritance\obj\Debug\Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\capita\Developer\Will - Projects\Inheritance\Inheritance\bin\Debug\Inheritance.exe.config
+C:\Users\user\Documents\capita\Developer\Will - Projects\Inheritance\Inheritance\bin\Debug\Inheritance.exe
+C:\Users\user\Documents\capita\Developer\Will - Projects\Inheritance\Inheritance\bin\Debug\Inheritance.pdb
+C:\Users\user\Documents\capita\Developer\Will - Projects\Inheritance\Inheritance\obj\Debug\Inheritance.exe
+C:\Users\user\Documents\capita\Developer\Will - Projects\Inheritance\Inheritance\obj\Debug\Inheritance.pdb

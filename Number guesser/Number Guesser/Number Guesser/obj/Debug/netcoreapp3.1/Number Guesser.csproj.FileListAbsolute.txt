@@ -1,0 +1,14 @@
+C:\Users\user\Documents\capita\Developer\Will - Projects\Number guesser\Number Guesser\Number Guesser\bin\Debug\netcoreapp3.1\Number Guesser.exe
+C:\Users\user\Documents\capita\Developer\Will - Projects\Number guesser\Number Guesser\Number Guesser\bin\Debug\netcoreapp3.1\Number Guesser.deps.json
+C:\Users\user\Documents\capita\Developer\Will - Projects\Number guesser\Number Guesser\Number Guesser\bin\Debug\netcoreapp3.1\Number Guesser.runtimeconfig.json
+C:\Users\user\Documents\capita\Developer\Will - Projects\Number guesser\Number Guesser\Number Guesser\bin\Debug\netcoreapp3.1\Number Guesser.runtimeconfig.dev.json
+C:\Users\user\Documents\capita\Developer\Will - Projects\Number guesser\Number Guesser\Number Guesser\bin\Debug\netcoreapp3.1\Number Guesser.dll
+C:\Users\user\Documents\capita\Developer\Will - Projects\Number guesser\Number Guesser\Number Guesser\bin\Debug\netcoreapp3.1\Number Guesser.pdb
+C:\Users\user\Documents\capita\Developer\Will - Projects\Number guesser\Number Guesser\Number Guesser\obj\Debug\netcoreapp3.1\Number Guesser.csproj.AssemblyReference.cache
+C:\Users\user\Documents\capita\Developer\Will - Projects\Number guesser\Number Guesser\Number Guesser\obj\Debug\netcoreapp3.1\Number Guesser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\capita\Developer\Will - Projects\Number guesser\Number Guesser\Number Guesser\obj\Debug\netcoreapp3.1\Number Guesser.AssemblyInfoInputs.cache
+C:\Users\user\Documents\capita\Developer\Will - Projects\Number guesser\Number Guesser\Number Guesser\obj\Debug\netcoreapp3.1\Number Guesser.AssemblyInfo.cs
+C:\Users\user\Documents\capita\Developer\Will - Projects\Number guesser\Number Guesser\Number Guesser\obj\Debug\netcoreapp3.1\Number Guesser.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\capita\Developer\Will - Projects\Number guesser\Number Guesser\Number Guesser\obj\Debug\netcoreapp3.1\Number Guesser.dll
+C:\Users\user\Documents\capita\Developer\Will - Projects\Number guesser\Number Guesser\Number Guesser\obj\Debug\netcoreapp3.1\Number Guesser.pdb
+C:\Users\user\Documents\capita\Developer\Will - Projects\Number guesser\Number Guesser\Number Guesser\obj\Debug\netcoreapp3.1\Number Guesser.genruntimeconfig.cache
