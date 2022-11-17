@@ -1,0 +1,17 @@
+C:\Users\user\Documents\capita\Developer\Will - Projects\Coding Challenges\Naughts and Crosses\Naughts and Crosses\bin\Debug\netcoreapp3.1\Naughts and Crosses.exe
+C:\Users\user\Documents\capita\Developer\Will - Projects\Coding Challenges\Naughts and Crosses\Naughts and Crosses\bin\Debug\netcoreapp3.1\Naughts and Crosses.deps.json
+C:\Users\user\Documents\capita\Developer\Will - Projects\Coding Challenges\Naughts and Crosses\Naughts and Crosses\bin\Debug\netcoreapp3.1\Naughts and Crosses.runtimeconfig.json
+C:\Users\user\Documents\capita\Developer\Will - Projects\Coding Challenges\Naughts and Crosses\Naughts and Crosses\bin\Debug\netcoreapp3.1\Naughts and Crosses.runtimeconfig.dev.json
+C:\Users\user\Documents\capita\Developer\Will - Projects\Coding Challenges\Naughts and Crosses\Naughts and Crosses\bin\Debug\netcoreapp3.1\Naughts and Crosses.dll
+C:\Users\user\Documents\capita\Developer\Will - Projects\Coding Challenges\Naughts and Crosses\Naughts and Crosses\bin\Debug\netcoreapp3.1\Naughts and Crosses.pdb
+C:\Users\user\Documents\capita\Developer\Will - Projects\Coding Challenges\Naughts and Crosses\Naughts and Crosses\obj\Debug\netcoreapp3.1\Naughts and Crosses.csproj.AssemblyReference.cache
+C:\Users\user\Documents\capita\Developer\Will - Projects\Coding Challenges\Naughts and Crosses\Naughts and Crosses\obj\Debug\netcoreapp3.1\Naughts and Crosses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\capita\Developer\Will - Projects\Coding Challenges\Naughts and Crosses\Naughts and Crosses\obj\Debug\netcoreapp3.1\Naughts and Crosses.AssemblyInfoInputs.cache
+C:\Users\user\Documents\capita\Developer\Will - Projects\Coding Challenges\Naughts and Crosses\Naughts and Crosses\obj\Debug\netcoreapp3.1\Naughts and Crosses.AssemblyInfo.cs
+C:\Users\user\Documents\capita\Developer\Will - Projects\Coding Challenges\Naughts and Crosses\Naughts and Crosses\obj\Debug\netcoreapp3.1\Naughts and Crosses.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\capita\Developer\Will - Projects\Coding Challenges\Naughts and Crosses\Naughts and Crosses\obj\Debug\netcoreapp3.1\Naughts and Crosses.dll
+C:\Users\user\Documents\capita\Developer\Will - Projects\Coding Challenges\Naughts and Crosses\Naughts and Crosses\obj\Debug\netcoreapp3.1\Naughts and Crosses.pdb
+C:\Users\user\Documents\capita\Developer\Will - Projects\Coding Challenges\Naughts and Crosses\Naughts and Crosses\obj\Debug\netcoreapp3.1\Naughts and Crosses.genruntimeconfig.cache
+C:\Users\user\Documents\capita\Developer\Will - Projects\Coding Challenges\Naughts and Crosses\Naughts and Crosses\bin\Debug\netcoreapp3.1\BoardLogicUsed.dll
+C:\Users\user\Documents\capita\Developer\Will - Projects\Coding Challenges\Naughts and Crosses\Naughts and Crosses\bin\Debug\netcoreapp3.1\BoardLogicUsed.pdb
+C:\Users\user\Documents\capita\Developer\Will - Projects\Coding Challenges\Naughts and Crosses\Naughts and Crosses\obj\Debug\netcoreapp3.1\Naughts and Crosses.csproj.CopyComplete

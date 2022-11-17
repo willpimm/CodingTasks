@@ -1,0 +1,6 @@
+C:\Users\user\Documents\capita\Developer\Will - Projects\Coding Challenges\Naughts and Crosses\BoardLogicUsed\bin\Debug\BoardLogicUsed.dll
+C:\Users\user\Documents\capita\Developer\Will - Projects\Coding Challenges\Naughts and Crosses\BoardLogicUsed\bin\Debug\BoardLogicUsed.pdb
+C:\Users\user\Documents\capita\Developer\Will - Projects\Coding Challenges\Naughts and Crosses\BoardLogicUsed\obj\Debug\BoardLogicUsed.csproj.AssemblyReference.cache
+C:\Users\user\Documents\capita\Developer\Will - Projects\Coding Challenges\Naughts and Crosses\BoardLogicUsed\obj\Debug\BoardLogicUsed.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\capita\Developer\Will - Projects\Coding Challenges\Naughts and Crosses\BoardLogicUsed\obj\Debug\BoardLogicUsed.dll
+C:\Users\user\Documents\capita\Developer\Will - Projects\Coding Challenges\Naughts and Crosses\BoardLogicUsed\obj\Debug\BoardLogicUsed.pdb

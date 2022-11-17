@@ -1,0 +1,7 @@
+C:\Users\user\Documents\capita\Developer\Will - Projects\AnagramChecker\AnagramChecker\bin\Debug\AnagramChecker.exe.config
+C:\Users\user\Documents\capita\Developer\Will - Projects\AnagramChecker\AnagramChecker\bin\Debug\AnagramChecker.exe
+C:\Users\user\Documents\capita\Developer\Will - Projects\AnagramChecker\AnagramChecker\bin\Debug\AnagramChecker.pdb
+C:\Users\user\Documents\capita\Developer\Will - Projects\AnagramChecker\AnagramChecker\obj\Debug\AnagramChecker.csproj.AssemblyReference.cache
+C:\Users\user\Documents\capita\Developer\Will - Projects\AnagramChecker\AnagramChecker\obj\Debug\AnagramChecker.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\capita\Developer\Will - Projects\AnagramChecker\AnagramChecker\obj\Debug\AnagramChecker.exe
+C:\Users\user\Documents\capita\Developer\Will - Projects\AnagramChecker\AnagramChecker\obj\Debug\AnagramChecker.pdb

@@ -1,0 +1,7 @@
+C:\Users\user\Documents\capita\Developer\Will - Projects\Longest Sequence\Longest Sequence\bin\Debug\Longest Sequence.exe.config
+C:\Users\user\Documents\capita\Developer\Will - Projects\Longest Sequence\Longest Sequence\bin\Debug\Longest Sequence.exe
+C:\Users\user\Documents\capita\Developer\Will - Projects\Longest Sequence\Longest Sequence\bin\Debug\Longest Sequence.pdb
+C:\Users\user\Documents\capita\Developer\Will - Projects\Longest Sequence\Longest Sequence\obj\Debug\Longest Sequence.csproj.AssemblyReference.cache
+C:\Users\user\Documents\capita\Developer\Will - Projects\Longest Sequence\Longest Sequence\obj\Debug\Longest Sequence.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\capita\Developer\Will - Projects\Longest Sequence\Longest Sequence\obj\Debug\Longest Sequence.exe
+C:\Users\user\Documents\capita\Developer\Will - Projects\Longest Sequence\Longest Sequence\obj\Debug\Longest Sequence.pdb

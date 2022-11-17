@@ -1,0 +1,14 @@
+C:\Users\user\Documents\capita\Developer\Will - Projects\Other\Chat Program\Chat Program\bin\Debug\netcoreapp3.1\Chat Program.exe
+C:\Users\user\Documents\capita\Developer\Will - Projects\Other\Chat Program\Chat Program\bin\Debug\netcoreapp3.1\Chat Program.deps.json
+C:\Users\user\Documents\capita\Developer\Will - Projects\Other\Chat Program\Chat Program\bin\Debug\netcoreapp3.1\Chat Program.runtimeconfig.json
+C:\Users\user\Documents\capita\Developer\Will - Projects\Other\Chat Program\Chat Program\bin\Debug\netcoreapp3.1\Chat Program.runtimeconfig.dev.json
+C:\Users\user\Documents\capita\Developer\Will - Projects\Other\Chat Program\Chat Program\bin\Debug\netcoreapp3.1\Chat Program.dll
+C:\Users\user\Documents\capita\Developer\Will - Projects\Other\Chat Program\Chat Program\bin\Debug\netcoreapp3.1\Chat Program.pdb
+C:\Users\user\Documents\capita\Developer\Will - Projects\Other\Chat Program\Chat Program\obj\Debug\netcoreapp3.1\Chat Program.csproj.AssemblyReference.cache
+C:\Users\user\Documents\capita\Developer\Will - Projects\Other\Chat Program\Chat Program\obj\Debug\netcoreapp3.1\Chat Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\capita\Developer\Will - Projects\Other\Chat Program\Chat Program\obj\Debug\netcoreapp3.1\Chat Program.AssemblyInfoInputs.cache
+C:\Users\user\Documents\capita\Developer\Will - Projects\Other\Chat Program\Chat Program\obj\Debug\netcoreapp3.1\Chat Program.AssemblyInfo.cs
+C:\Users\user\Documents\capita\Developer\Will - Projects\Other\Chat Program\Chat Program\obj\Debug\netcoreapp3.1\Chat Program.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\capita\Developer\Will - Projects\Other\Chat Program\Chat Program\obj\Debug\netcoreapp3.1\Chat Program.dll
+C:\Users\user\Documents\capita\Developer\Will - Projects\Other\Chat Program\Chat Program\obj\Debug\netcoreapp3.1\Chat Program.pdb
+C:\Users\user\Documents\capita\Developer\Will - Projects\Other\Chat Program\Chat Program\obj\Debug\netcoreapp3.1\Chat Program.genruntimeconfig.cache

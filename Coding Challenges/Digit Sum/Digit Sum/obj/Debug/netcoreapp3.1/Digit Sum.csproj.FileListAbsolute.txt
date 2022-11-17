@@ -1,0 +1,14 @@
+C:\Users\user\Documents\capita\Developer\Will - Projects\Digit Sum\Digit Sum\bin\Debug\netcoreapp3.1\Digit Sum.exe
+C:\Users\user\Documents\capita\Developer\Will - Projects\Digit Sum\Digit Sum\bin\Debug\netcoreapp3.1\Digit Sum.deps.json
+C:\Users\user\Documents\capita\Developer\Will - Projects\Digit Sum\Digit Sum\bin\Debug\netcoreapp3.1\Digit Sum.runtimeconfig.json
+C:\Users\user\Documents\capita\Developer\Will - Projects\Digit Sum\Digit Sum\bin\Debug\netcoreapp3.1\Digit Sum.runtimeconfig.dev.json
+C:\Users\user\Documents\capita\Developer\Will - Projects\Digit Sum\Digit Sum\bin\Debug\netcoreapp3.1\Digit Sum.dll
+C:\Users\user\Documents\capita\Developer\Will - Projects\Digit Sum\Digit Sum\bin\Debug\netcoreapp3.1\Digit Sum.pdb
+C:\Users\user\Documents\capita\Developer\Will - Projects\Digit Sum\Digit Sum\obj\Debug\netcoreapp3.1\Digit Sum.csproj.AssemblyReference.cache
+C:\Users\user\Documents\capita\Developer\Will - Projects\Digit Sum\Digit Sum\obj\Debug\netcoreapp3.1\Digit Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\capita\Developer\Will - Projects\Digit Sum\Digit Sum\obj\Debug\netcoreapp3.1\Digit Sum.AssemblyInfoInputs.cache
+C:\Users\user\Documents\capita\Developer\Will - Projects\Digit Sum\Digit Sum\obj\Debug\netcoreapp3.1\Digit Sum.AssemblyInfo.cs
+C:\Users\user\Documents\capita\Developer\Will - Projects\Digit Sum\Digit Sum\obj\Debug\netcoreapp3.1\Digit Sum.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\capita\Developer\Will - Projects\Digit Sum\Digit Sum\obj\Debug\netcoreapp3.1\Digit Sum.dll
+C:\Users\user\Documents\capita\Developer\Will - Projects\Digit Sum\Digit Sum\obj\Debug\netcoreapp3.1\Digit Sum.pdb
+C:\Users\user\Documents\capita\Developer\Will - Projects\Digit Sum\Digit Sum\obj\Debug\netcoreapp3.1\Digit Sum.genruntimeconfig.cache

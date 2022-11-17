@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Naughts and Crosses/1.0.0": {
+        "dependencies": {
+          "BoardLogicUsed": "1.0.0"
+        },
+        "runtime": {
+          "Naughts and Crosses.dll": {}
+        }
+      },
+      "BoardLogicUsed/1.0.0": {
+        "runtime": {
+          "BoardLogicUsed.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Naughts and Crosses/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BoardLogicUsed/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

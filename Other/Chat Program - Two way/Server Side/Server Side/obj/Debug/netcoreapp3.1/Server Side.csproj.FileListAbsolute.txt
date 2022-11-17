@@ -1,0 +1,14 @@
+C:\Users\user\Documents\capita\Developer\Will - Projects\Other\Chat Program - Two way\Server Side\Server Side\bin\Debug\netcoreapp3.1\Server Side.exe
+C:\Users\user\Documents\capita\Developer\Will - Projects\Other\Chat Program - Two way\Server Side\Server Side\bin\Debug\netcoreapp3.1\Server Side.deps.json
+C:\Users\user\Documents\capita\Developer\Will - Projects\Other\Chat Program - Two way\Server Side\Server Side\bin\Debug\netcoreapp3.1\Server Side.runtimeconfig.json
+C:\Users\user\Documents\capita\Developer\Will - Projects\Other\Chat Program - Two way\Server Side\Server Side\bin\Debug\netcoreapp3.1\Server Side.runtimeconfig.dev.json
+C:\Users\user\Documents\capita\Developer\Will - Projects\Other\Chat Program - Two way\Server Side\Server Side\bin\Debug\netcoreapp3.1\Server Side.dll
+C:\Users\user\Documents\capita\Developer\Will - Projects\Other\Chat Program - Two way\Server Side\Server Side\bin\Debug\netcoreapp3.1\Server Side.pdb
+C:\Users\user\Documents\capita\Developer\Will - Projects\Other\Chat Program - Two way\Server Side\Server Side\obj\Debug\netcoreapp3.1\Server Side.csproj.AssemblyReference.cache
+C:\Users\user\Documents\capita\Developer\Will - Projects\Other\Chat Program - Two way\Server Side\Server Side\obj\Debug\netcoreapp3.1\Server Side.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\capita\Developer\Will - Projects\Other\Chat Program - Two way\Server Side\Server Side\obj\Debug\netcoreapp3.1\Server Side.AssemblyInfoInputs.cache
+C:\Users\user\Documents\capita\Developer\Will - Projects\Other\Chat Program - Two way\Server Side\Server Side\obj\Debug\netcoreapp3.1\Server Side.AssemblyInfo.cs
+C:\Users\user\Documents\capita\Developer\Will - Projects\Other\Chat Program - Two way\Server Side\Server Side\obj\Debug\netcoreapp3.1\Server Side.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\capita\Developer\Will - Projects\Other\Chat Program - Two way\Server Side\Server Side\obj\Debug\netcoreapp3.1\Server Side.dll
+C:\Users\user\Documents\capita\Developer\Will - Projects\Other\Chat Program - Two way\Server Side\Server Side\obj\Debug\netcoreapp3.1\Server Side.pdb
+C:\Users\user\Documents\capita\Developer\Will - Projects\Other\Chat Program - Two way\Server Side\Server Side\obj\Debug\netcoreapp3.1\Server Side.genruntimeconfig.cache
